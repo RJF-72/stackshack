@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791461165178,
+      "tag": "0001_initial",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791461165178,
+      "tag": "0002_grocery_basket_deals_and_quotes",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791462314237,
+      "tag": "0003_regional_store_preferences",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1791464344883,
+      "tag": "0004_remember_scanned_products",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1791884226194,
+      "tag": "0005_billing_subscriptions_and_deal_alerts",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1791887260673,
+      "tag": "0006_deal_feed_checks",
+      "breakpoints": true
+    }
+  ]
+}
