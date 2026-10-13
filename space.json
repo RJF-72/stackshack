@@ -1,0 +1,10 @@
+{
+  "entry": "client/dist/index.html",
+  "managedCronJobs": [
+    "grocery-ordering-system-weekly-deals"
+  ],
+  "name": "Stack & Save",
+  "platformVersion": 25,
+  "runtime": "typescript",
+  "slug": "grocery-ordering-system"
+}
